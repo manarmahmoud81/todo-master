@@ -1,0 +1,19 @@
+{
+  "todo": "ToDo",
+  "taskTitle": "Task Title",
+  "taskDescription": "Task Description",
+  "language": "Language",
+  "theme": "Theme",
+  "english": "English",
+  "arabic": "Arabic",
+  "light": "Light",
+  "dark": "Dark",
+  "setting": "Setting",
+  "addNewTask": "Add New Task",
+  "deleteTask": "Cancle",
+  "description":"Description",
+  "enterTaskDescription":"Enter Task Description",
+  "title":"Title",
+  "enterTitle":"Enter Title",
+  "selectTime":"Select time"
+}

@@ -1,0 +1,19 @@
+{
+  "todo": "المهام",
+  "taskTitle": "عنوان المهمه",
+  "taskDescription": "تفاصيل المهمه",
+  "language": "اللغه",
+  "theme": "النسق",
+  "english": "انجليزي",
+  "arabic": "عربي",
+  "light": "فاتح",
+  "dark": "غامق",
+  "setting": "الاعدادات",
+  "addNewTask": "اضافه مهمه جديده",
+  "deleteTask": "الغاء",
+  "description":"تفاصيل",
+  "enterTaskDescription":"ادخل التفاصيل",
+  "title":"العنوان",
+  "enterTitle":"ادخل العنوان",
+  "selectTime":"اختر الوقت"
+}
